@@ -1,0 +1,126 @@
+
+* {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.foto-mia{
+	
+	display: grid;
+	width: 424px;
+	height: 599px;
+	background: #dd2e71;
+	margin: 50px;
+	justify-content:center;	
+	padding: 120px;
+	position: relative;
+	align-content: center;
+	border-radius: 5px;
+
+
+
+
+}
+
+.logo-insta{
+	
+	display: flex;
+	justify-content: center;
+
+
+
+}
+
+img {
+	width: 120px;
+	height: 120px;
+	padding: 10px;
+	margin-top: -30px;
+	
+
+
+
+}
+
+
+
+
+.titulo-insta {
+ 
+ 	color: #fff;	
+  	margin: auto;
+  	font-size: 20px;
+  	margin-bottom: -25px;
+
+ 	 
+
+ 	 
+}
+
+
+
+
+
+.lorem-text {
+	
+	display: flex;
+	color: white;
+	margin: auto;
+	padding: 50px 20px 50px 20px;
+	margin-top: -25px;
+
+
+
+	
+	
+
+}
+
+h2 {
+
+	font-style: lighter;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+	
+
+		
+}
+
+
+
+
+
+button:hover {
+	transition: .5s;
+	background: #000;
+
+	
+}
+
+
+button {
+
+	background: white;
+	border-radius: 40px;
+	text-align: center;
+	margin: auto;
+	width: 355px;
+	height: 72px;
+	border: none;
+	font-weight: 400;
+	
+
+	
+
+}
+
+.boton{
+	color: #dd2e71;
+	font-size: 20px;
+	cursor: pointer;
+
+}
+
+
+
